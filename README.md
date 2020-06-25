@@ -23,6 +23,10 @@ Are there "similar" restaurants? If so, what specialty do that have?
 
 This will be more of a comparative analysis of existing food chains/restaurants across few counties in Ireland.
 
+### Tageted Audience
+
+This is targeted towards restaurant and food cahin owners looking to open their buiseness in Irealnd and want to understand the current situation about people preferences, food popularity and exisitng businesses across required neighbourhood.  
+
 ## Data
 
 Given the problem at hand, we’ll need a variety of data to perform our analysis. 
