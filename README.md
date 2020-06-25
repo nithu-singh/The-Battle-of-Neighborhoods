@@ -16,10 +16,10 @@ This is just an example, there are many such food chains and restaurants across 
 As mentioned above, these restaurant chains are as of now only serving across India, but if they were to go international, specifically open their first international chain of restaurants in Ireland. There are various factors that they’ll have to look into.
 Example of few such factors are,
 
-What are existing food chains in Ireland? 
-How popular is Asian food in Ireland?
-Which county is more preferable to open their first restaurant ?
-Are there "similar" restaurants? If so, what specialty do that have?
+* What are existing food chains in Ireland? 
+* How popular is Asian food in Ireland?
+* Which county is more preferable to open their first restaurant ?
+* Are there "similar" restaurants? If so, what specialty do that have?
 
 This will be more of a comparative analysis of existing food chains/restaurants across few counties in Ireland.
 
