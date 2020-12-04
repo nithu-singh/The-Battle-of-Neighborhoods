@@ -1,0 +1,411 @@
+Administrative_Area,Cuisine,Restaurant_id,Restaurant_Name,Restaurant_price,Restaurant_Ratings,User_Ratings_Total
+DUBLIN CITY,African,4afbcb53f964a520141f22e3,Il Caffè di Napoli,2,4.5,816
+DUBLIN CITY,African,4c13966ba5eb76b0f01ec0b7,Akanchawa's Honey Pot,1,3.8,6
+DUBLIN CITY,American,4cdd9beaf8a4a1431027d1bc,The Butcher Grill,3,4.6,469
+DUBLIN CITY,American,4b8d5387f964a520c1f432e3,TriBeCa,2,4.3,889
+DUBLIN CITY,American,4ade0f09f964a520de7021e3,Hard Rock Cafe Dublin,3,4.2,4732
+DUBLIN CITY,American,4af2d5a7f964a520abe821e3,Herbstreet,2,4.4,1520
+DUBLIN CITY,American,4b19a00df964a520ade023e3,Eddie Rocket's,2,4,1777
+DUBLIN CITY,American,54426aa3498e28f66d4b4353,Dolce Sicily,2,4.5,1861
+DUBLIN CITY,American,50d17a39e4b08647fe9dc66f,Goose on the Loose,1,4.5,232
+DUBLIN CITY,American,4b2289b0f964a520974824e3,Lemon Crêpe & Coffee Company,2,4.5,628
+DUBLIN CITY,American,4ade0f38f964a5208b7121e3,Eddie Rocket's,2,4,1777
+DUBLIN CITY,American,4b070dc9f964a5205af622e3,The Long Hall,2,4.6,2234
+DUBLIN CITY,American,4f85d1a6e4b08d4038372c98,The Brew Dock,2,4.3,1848
+DUBLIN CITY,American,4af1e5c9f964a5203ae421e3,The Porterhouse Central,2,4.5,914
+DUBLIN CITY,American,4ade0f3df964a5209e7121e3,Thunder Road Café,2,4.2,2685
+DUBLIN CITY,American,4b029607f964a520014922e3,Woolshed Baa & Grill,2,4.3,2837
+DUBLIN CITY,American,4b62f8d4f964a5208d5b2ae3,Eddie Rocket's,2,4,362
+DUBLIN CITY,American,4aff43acf964a520ac3622e3,The Bleeding Horse,2,4.3,2621
+DUBLIN CITY,American,4e04de97aeb771d9788243d8,Milano,2,4,227
+DUBLIN CITY,American,4be2ba6ef07b0f479402f643,Eddie Rocket's,2,3.8,685
+DUBLIN CITY,American,4b059617f964a5207adf22e3,Milano,2,4,227
+DUBLIN CITY,Chinese,4b26b074f964a5208c7f24e3,Hilan Korean & Chinese Restaurant,2,4.1,765
+DUBLIN CITY,Chinese,5c07ecc2e9b9a500252f9c13,Xian Street Food,-,4.4,659
+DUBLIN CITY,Chinese,582caf96d21e034889796cf3,Hang Dai Chinese,2,4.4,637
+DUBLIN CITY,Chinese,5386097c498e5a8cd9ed588a,Duck,1,4.4,659
+DUBLIN CITY,Chinese,4b996581f964a520617835e3,Charming Noodles,1,4.5,390
+DUBLIN CITY,Chinese,4b51995df964a5206e5027e3,Good World Chinese Restaurant,2,4,418
+DUBLIN CITY,Chinese,5af0369522d490002c79540c,Bao House,1,4.3,264
+DUBLIN CITY,Chinese,5516a003498ee5f4d3de819e,Sichuan Chili King,1,4.4,210
+DUBLIN CITY,Chinese,4bde00310ee3a5935a8b2fb0,Charlies III,2,3.6,363
+DUBLIN CITY,Chinese,4b6de4c2f964a52087992ce3,Jimmy Chung's,2,4,1613
+DUBLIN CITY,Chinese,4eb58aa030f8d0f18c650a4f,Lee Kee,-,4,223
+DUBLIN CITY,Chinese,5c2f6211dee770002c7ea8e4,Bowls by Kwanghi Chan,-,4.5,262
+DUBLIN CITY,Chinese,5d5447ff29e8f7000851aa56,Bullet Duck And Dumplings,-,4.3,179
+DUBLIN CITY,Chinese,4b3fe8c8f964a520d8b125e3,Charlies 3,2,3.6,363
+DUBLIN CITY,Chinese,4c77f7e3a8683704e79f0b4d,New Empire,1,3.9,78
+DUBLIN CITY,Chinese,4b163458f964a52086b723e3,Roasted Bean Coffee Company,1,4.3,84
+DUBLIN CITY,Chinese,4e0fb74062843e04afb84613,Canton City,-,3.8,17
+DUBLIN CITY,Chinese,57af66c1498eeb5b2e30031c,Lin's Palace,1,4,57
+DUBLIN CITY,Chinese,4be307891dd22d7fee8295bd,Canton House,-,4.1,57
+DUBLIN CITY,Chinese,51d86e5a498e62a2f8f9c5ac,Golden Palace,1,4.3,494
+DUBLIN CITY,Chinese,570bdb4dcd1027f1f262a7ff,Gourmet Kitchen,1,4.4,85
+DUBLIN CITY,Chinese,5155bacce4b03b3c9f9a2916,Chop Chop,-,3.9,73
+DUBLIN CITY,Chinese,4b12d159f964a520b48e23e3,Charlies Four,1,3.5,281
+DUBLIN CITY,Chinese,4f0884b1e4b026656e4a19b1,Emerald Court,-,3.7,48
+DUBLIN CITY,Chinese,4b6f2363f964a5209fdf2ce3,Aberdeen Chinese Take Away,1,4.2,75
+DUBLIN CITY,Chinese,4cb8c915a33bb1f742cb83fd,Bamboo,-,3.4,30
+DUBLIN CITY,Chinese,54de14f2498eb547d6348463,Rialto Malaysian Chinese Takeaway,-,3.8,-
+DUBLIN CITY,Chinese,4d543973dcb1a1432c6dbcbf,Ho Ho,1,3.8,98
+DUBLIN CITY,Chinese,4b72b36ef964a5205e842de3,Charlies 5,1,3.5,281
+DUBLIN CITY,Japanese,4af48636f964a5207cf321e3,Yamamori Sushi,2,4.4,2062
+DUBLIN CITY,Japanese,51955e89498e30a47e57d4e0,Banyi Japanese Dining,2,4.4,1036
+DUBLIN CITY,Japanese,4f05b6f38b81bb1b02d51f42,Musashi Noodles & Sushi Bar,2,4.6,1817
+DUBLIN CITY,Japanese,4cd56f3367c7236a69b61277,Ichiman,-,3.7,30
+DUBLIN CITY,Japanese,4e4fd10caeb70f1284a53e85,Yamamori Izakaya,2,4.4,1410
+DUBLIN CITY,Japanese,4ade0f38f964a5208a7121e3,wagamama,2,4.2,1048
+DUBLIN CITY,Japanese,5322071e498e96a03850732e,Fujiyama Sushi,2,4.4,536
+DUBLIN CITY,Japanese,5ae2faf22b984400390b1995,Tokyo Kitchen,-,4.7,79
+DUBLIN CITY,Japanese,5248333611d23aa22ccb850f,Zakura Noodle & Sushi,2,4.5,818
+DUBLIN CITY,Japanese,542946bf498ef4e6e7b4afcc,Japanese Kitchen @ J2,1,4.6,314
+DUBLIN CITY,Japanese,4b128fc1f964a520d58a23e3,Michie Sushi,2,4.6,298
+DUBLIN CITY,Japanese,4afebff2f964a5202c3022e3,Kokoro,-,4.3,64
+DUBLIN CITY,Japanese,4afd6359f964a520892722e3,Sushi King,-,4.4,54
+DUBLIN CITY,Japanese,5855a654561ded1fe278b6c7,Wasabi Restaurant Sushi Bar,2,3.9,801
+DUBLIN CITY,Japanese,51cf3271498effd0114b1bf3,Okayu,-,4.5,187
+DUBLIN CITY,Japanese,4b17c44df964a520f8c723e3,Chai Yo,2,4.5,831
+DUBLIN CITY,Japanese,58d8ff008ee560562cbe6fe3,Kokoro,-,4.3,64
+DUBLIN CITY,Japanese,534bd977498e2f2d7392ceb5,J2 Sushi & Tea,-,3.7,17
+DUBLIN CITY,Japanese,56ed9201498e4f224492f47f,Rafa's Temaki,-,4.5,35
+DUBLIN CITY,Korean,4b26b074f964a5208c7f24e3,Hilan Korean & Chinese Restaurant,2,4.1,765
+DUBLIN CITY,Korean,5cf3f5747564f7002c959805,Chimac,2,4.5,482
+DUBLIN CITY,Korean,564e24a4498e86dce051e2ac,Drunken Fish,2,4.1,972
+DUBLIN CITY,Korean,573db5d8498ec17ea1b8c78f,Brothers Dosirak,1,4.6,434
+DUBLIN CITY,Malay,532c3817498eb90d6588ebb3,Moonsoon Café,-,5,1
+DUBLIN CITY,Thai,4af339e7f964a520e2eb21e3,Saba,2,4.3,804
+DUBLIN CITY,Thai,4b4c956cf964a520bfb626e3,Thai Spice,1,4.4,544
+DUBLIN CITY,Thai,4af83d9bf964a520910b22e3,Koh Restaurant & Cocktail Lounge,2,4.4,724
+DUBLIN CITY,Thai,4b6c5124f964a52027302ce3,Thai Orchid,2,4.1,567
+DUBLIN CITY,Thai,529109f511d2fae8769bc9bf,Opium,2,4.2,1280
+DUBLIN CITY,Thai,510d4db8e4b0256d77831e74,Red Torch Ginger,2,4.4,872
+DUBLIN CITY,Thai,4af336e4f964a520caeb21e3,Kanum Thai,2,4.2,458
+DUBLIN CITY,Thai,56eb0b85498e64058fc58fa4,Saba,2,4.3,804
+DUBLIN CITY,Thai,4cefb9d7ed62721e7ff861fd,Yum Thai,1,4.2,211
+DUBLIN CITY,Thai,503e359fe4b0523977b1e6e1,Kanoodle,2,4.2,259
+DUBLIN CITY,Thai,4e25fa261f6e58da2b1aff79,Mi Thai,2,4.4,158
+DUBLIN CITY,Thai,4b4cc58ff964a52039be26e3,Chilli Banana,2,4.5,156
+DUBLIN CITY,Thai,4b5ca441f964a520953b29e3,Saba to Go,-,4.1,107
+DUBLIN CITY,Thai,4e25a269fa76a490d3bc68b4,Hot Wok Noodle Bar,-,4,249
+DUBLIN CITY,Thai,53187706498e991d5d4d2bd9,Pho Ta,1,4.4,617
+DUBLIN CITY,Thai,4f3a7165e4b03d32dfae2a35,Yum Thai,1,4.2,211
+DUBLIN CITY,Thai,58e8df44e9233e15915951da,Nightmarket,2,4.6,369
+DUBLIN CITY,Thai,4b9b81e0f964a520cb0b36e3,Chilli Club,-,4.2,147
+DUBLIN CITY,Thai,4c7d5f825af8b60c9e668f10,Camile Thai,2,4.1,145
+DUBLIN CITY,Thai,538a4154498eed7dcdb0a20f,Camile Thai,2,4,201
+DUBLIN CITY,Vietnamese,50d0caece4b01ebdbbeb691a,Pho Viet,1,4.5,961
+DUBLIN CITY,Vietnamese,53187706498e991d5d4d2bd9,Pho Ta,1,4.4,617
+DUBLIN CITY,Vietnamese,50506df0e4b030e87ab52f68,Aobaba,1,4.6,917
+DUBLIN CITY,Vietnamese,4af339e7f964a520e2eb21e3,Saba,2,4.3,804
+DUBLIN CITY,Vietnamese,4af83d9bf964a520910b22e3,Koh Restaurant & Cocktail Lounge,2,4.4,724
+DUBLIN CITY,Belgian,4af1e047f964a52007e421e3,The Porterhouse,2,4.5,914
+DUBLIN CITY,Belgian,4af2d5a7f964a520abe821e3,Herbstreet,2,4.4,1520
+DUBLIN CITY,Czech,4af1e047f964a52007e421e3,The Porterhouse,2,4.5,914
+DUBLIN CITY,English,5b3a041f9f8a9f002c67299d,The Ivy Dublin,3,4.1,1452
+DUBLIN CITY,English,4b2a2ceff964a520cba524e3,Darkey Kelly's,2,4.6,1370
+DUBLIN CITY,English,4d6e8223cf4da0905273e5d6,Fortes Take Away,1,3.7,206
+DUBLIN CITY,French,4b7a8452f964a5208a2f2fe3,Restaurant Patrick Guilbaud,4,4.6,375
+DUBLIN CITY,French,4b6c9070f964a52074432ce3,La Maison,2,4.6,590
+DUBLIN CITY,French,4af2a45df964a5201de821e3,Pichet,3,4.6,768
+DUBLIN CITY,French,4b755a37f964a520d3072ee3,Chez Max,2,4.4,831
+DUBLIN CITY,French,4b3a0504f964a5204e6025e3,Le Bon Crubeen,2,4.2,819
+DUBLIN CITY,French,4b20f99ef964a520be3524e3,Pearl Brasserie,3,4.7,517
+DUBLIN CITY,French,4af875e7f964a520780d22e3,l'Gueuleton,2,4.3,632
+DUBLIN CITY,French,4bd2dd63a8b3a593ad98685f,Bang Restaurant,3,4.4,570
+DUBLIN CITY,French,4b0c664af964a5207c3c23e3,Dax Restaurant,4,4.7,428
+DUBLIN CITY,French,4ade0f48f964a520c47121e3,Fallon & Byrne Restaurant,-,0,-
+DUBLIN CITY,French,4af2d5a7f964a520abe821e3,Herbstreet,2,4.4,1520
+DUBLIN CITY,French,4ade0f32f964a520727121e3,Roly's Bistro,2,4.3,1561
+DUBLIN CITY,French,4bdddb13e75c0f4766e2c503,The Wild Goose,-,4.6,132
+DUBLIN CITY,French,5427dc9e498e2d89dfd40c56,Brother Hubbard South,2,4.4,804
+DUBLIN CITY,French,50d17a39e4b08647fe9dc66f,Goose on the Loose,1,4.5,232
+DUBLIN CITY,French,564e46d4498edada2eba2dbf,Suesey Street,3,4.5,277
+DUBLIN CITY,French,4b2a5a7cf964a5209da724e3,Lemon Jelly Café,2,4.5,2417
+DUBLIN CITY,French,4af1a76ef964a520dde121e3,Metro Café,2,4.3,1014
+DUBLIN CITY,French,59ef7c67772fbc137e55fc26,Boeuf,2,4.5,626
+DUBLIN CITY,French,4d25d6ef19ff3704e4911170,Matt The Thresher,2,4.5,1213
+DUBLIN CITY,French,4bd2de2ea8b3a593cb99685f,Bloom Brasserie,3,4.6,567
+DUBLIN CITY,French,4ed24bb793ad987b4f492c07,Cinnamon,2,4,830
+DUBLIN CITY,French,4b92a090f964a5204d0b34e3,La Peniche,2,4.3,215
+DUBLIN CITY,French,571b6f5f498e15fd23ed771d,Girl and the Goose Restaurant,2,4.3,238
+DUBLIN CITY,Greek,4e67bdb8d4c0d522463aab96,Corfu Restaurant,2,4.5,593
+DUBLIN CITY,Greek,5900e885d7627e48e58ee50f,Kostas,-,4.4,63
+DUBLIN CITY,Greek,4c4f3de779ffe21e6104541a,Paulie's Pizza,2,4.6,1590
+DUBLIN CITY,Greek,4af1a76ef964a520dde121e3,Metro Café,2,4.3,1014
+DUBLIN CITY,Greek,4b5c5016f964a5209d2a29e3,Gourmet Burger Kitchen,2,4.2,1191
+DUBLIN CITY,Hawaiian,5c72a2985f68b9002c68ea45,Shaka Poké,-,4.4,22
+DUBLIN CITY,Hawaiian,5c0d1ede46e1b6002c381592,Akaka Poke,-,4.4,161
+DUBLIN CITY,Indian,4bd2d8a5a8b3a5933f92685f,Montys of Kathmandu,2,4.5,446
+DUBLIN CITY,Indian,4ebae03a77c8100292c677cf,Ruposhi Indian Restaurant,-,4,181
+DUBLIN CITY,Indian,56b75a2a498eab3cc1c52b3d,Kerala Kitchen,2,4.3,763
+DUBLIN CITY,Indian,4b48dc33f964a5207c5a26e3,Bombay Pantry,2,3.8,127
+DUBLIN CITY,Indian,5116bb73e4b09b369d28ba2b,Kathmandu Kitchen,2,4.2,747
+DUBLIN CITY,Indian,4c992890775abfb788b54267,Kinara Kitchen,2,4.5,442
+DUBLIN CITY,Indian,4b9c0019f964a520333f36e3,Kinara,2,4.5,738
+DUBLIN CITY,Indian,4b006da1f964a5201c3e22e3,Shan Indian Restaurant,2,4,98
+DUBLIN CITY,Indian,4b9e847cf964a52001eb36e3,Konkan Indian Restaurant,2,4.4,312
+DUBLIN CITY,Indian,4b50bcb8f964a520133027e3,Bombay Pantry,-,3.6,84
+DUBLIN CITY,Indian,5159cbe9e4b086af777dfcce,Spice of India,2,3.9,397
+DUBLIN CITY,Indian,4c0cfc08d64c0f4741f7255d,Diwali Indian Restaurant,2,4.1,777
+DUBLIN CITY,Indian,4ade0f48f964a520c57121e3,Dunne & Crescenzi,2,4.1,210
+DUBLIN CITY,Indian,4c780e8181bca093b1c9f814,Spice n Rice,1,4.4,245
+DUBLIN CITY,Indian,4ba26254f964a52081f337e3,Namaste India,1,3.9,430
+DUBLIN CITY,Indian,4af409b5f964a520e0ef21e3,Jewel in the Crown,2,3.8,306
+DUBLIN CITY,Indian,4e6a05bd483bf2d9e606e532,Ambala,-,3.6,85
+DUBLIN CITY,Indian,548dd18d498ed29d2bae258e,Siri Indian Cuisine,-,4.5,170
+DUBLIN CITY,Indian,4bd1db34a8b3a5936c8d665f,Jewel in the Crown,2,4.2,256
+DUBLIN CITY,Indian,4b0fc7c7f964a520d46423e3,Sweet N Spice,1,3.9,332
+DUBLIN CITY,Indian,4d60388c9f67f04d9b4876fb,Taste of Everest,-,4.8,12
+DUBLIN CITY,Indian,5182955e498e966ce304b89a,Curry and Kebab,1,3.7,173
+DUBLIN CITY,Indian,5345abe3498e77a76cdbbce8,Rasoi Indian To Go,-,4.2,64
+DUBLIN CITY,Italian,4eb99898f5b994cb99b44895,Da Mimmo,2,4.6,1105
+DUBLIN CITY,Italian,528d27d811d26b17eaddeaaa,Wallace's Asti,2,4.5,484
+DUBLIN CITY,Italian,4b7ebf77f964a520a4fc2fe3,Il Vicoletto,2,4.6,774
+DUBLIN CITY,Italian,4b6595c9f964a5205df52ae3,Dunne & Crescenzi,2,4.4,994
+DUBLIN CITY,Italian,54426aa3498e28f66d4b4353,Dolce Sicily,2,4.5,1861
+DUBLIN CITY,Italian,4c4f3de779ffe21e6104541a,Paulie's Pizza,2,4.6,1590
+DUBLIN CITY,Italian,4b0060f6f964a5207e3d22e3,Ciao Bella Roma,2,4.2,1033
+DUBLIN CITY,Italian,5220d50411d2293cbeef1654,Terra Madre,2,4.4,491
+DUBLIN CITY,Italian,57338e54498e8afca1fa859a,Cirillo's,2,4.5,668
+DUBLIN CITY,Italian,59b2e83d47f8761788ad49c7,Forno 500,2,4.4,1175
+DUBLIN CITY,Italian,52c74a5311d25f24c7c571da,Osteria Lucio,2,4.4,1054
+DUBLIN CITY,Italian,4e2839a3aeb75df8caa99e62,Wallace's Taverna,2,4.3,956
+DUBLIN CITY,Italian,5700f986498ed4402814a8b3,Rosa Madre,2,4.5,683
+DUBLIN CITY,Italian,52359c6011d2d4fcaa276407,Doppio Zero,-,4.6,91
+DUBLIN CITY,Italian,4d6d29d0965b88bfefeca85b,Toto Ristorante Italiano,2,4.1,367
+DUBLIN CITY,Italian,4b6d7612f964a520e1752ce3,Toscana Italian Restaurant,2,4.4,1322
+DUBLIN CITY,Italian,576da05c498efee0039ce035,Dublin Pizza Company,2,4.6,660
+DUBLIN CITY,Italian,4afbcb53f964a520141f22e3,Il Caffè di Napoli,2,4.5,816
+DUBLIN CITY,Italian,4b5ca4e6f964a520c33b29e3,Boulevard Café,2,4,246
+DUBLIN CITY,Italian,4b56088cf964a520e5fc27e3,Café Topolis,2,4.4,598
+DUBLIN CITY,Italian,4d723cf8311f6ea8356ed8ea,Casa Pasta,2,4.3,399
+DUBLIN CITY,Italian,5904f4e2f00a703cd1b5cfa8,Zizzi,2,4.2,873
+DUBLIN CITY,Italian,56fa738a498e6dd4d5ebc0f6,Dall Italia pasta bar,-,4.4,220
+DUBLIN CITY,Italian,4b6497e0f964a52065c02ae3,Enoteca delle Langhe,2,4.3,510
+DUBLIN CITY,Italian,58e27e7858c4d15cb301f537,Di Luca,2,4.4,228
+DUBLIN CITY,Italian,4cb5c9ea56fca1cd7e6a5118,The Italian Connection,2,4.2,496
+DUBLIN CITY,Italian,5adf8dc2ca18ea0dfcc42621,Sano Pizza,1,4.4,2276
+DUBLIN CITY,Italian,4c1a65e1b306c928478a60b7,Ristorante Romano,1,4.3,280
+DUBLIN CITY,Italian,4d6629c44bfb2d4308ba3cb4,Terrazzo Italia,-,0,-
+DUBLIN CITY,Italian,4bb23715eb3e952160b8c90a,Il Fornaio,2,4.3,494
+DUBLIN CITY,Italian,5c2cfa91811045002cfc6c5b,Grano,-,4.7,310
+DUBLIN CITY,Italian,4af56e11f964a52020f921e3,Er Buchetto Caffe Italiano,1,4.7,168
+DUBLIN CITY,Italian,4b33c757f964a520ff1e25e3,Il Posto,-,4.2,99
+DUBLIN CITY,Italian,4b195cebf964a520f4db23e3,La Caverna Restaurant and Wine Bar,2,4.3,386
+DUBLIN CITY,Italian,5596e102498e0197b4a84439,Luna,-,4.4,179
+DUBLIN CITY,Italian,4c167de296040f477ced72a5,Bar Italia Restaurant,2,4.4,798
+DUBLIN CITY,Italian,4b8af0f8f964a520668a32e3,Sandbar,2,4,234
+DUBLIN CITY,Italian,4ade0f36f964a520807121e3,Milano,2,3.9,524
+DUBLIN CITY,Italian,4ade0f48f964a520c57121e3,Dunne & Crescenzi,2,4.1,210
+DUBLIN CITY,Italian,4b30c540f964a5207afb24e3,Milano,2,3.9,1156
+DUBLIN CITY,Italian,4b2a5a7cf964a5209da724e3,Lemon Jelly Café,2,4.5,2417
+DUBLIN CITY,Italian,4b522869f964a5203e6c27e3,Milano,2,4,796
+DUBLIN CITY,Italian,4e04de97aeb771d9788243d8,Milano,2,4,227
+DUBLIN CITY,Italian,52868e6a498ed40b9df56b94,Drury Buildings,2,4.3,849
+DUBLIN CITY,Italian,52dd4d27498ec2361514b507,147 Deli,2,4.7,482
+DUBLIN CITY,Italian,4af413cdf964a520fcef21e3,Coppinger Row,2,4.4,526
+DUBLIN CITY,Italian,5ae5bbf68ad62e002c8d5333,Wood Fire Cafe,2,4.8,288
+DUBLIN CITY,Italian,4ade0f4af964a520d17121e3,La Dolce Vita,2,4.4,383
+DUBLIN CITY,Italian,4b1a69d2f964a52007ea23e3,O'Briens Sandwich Cafe,2,4.2,27
+DUBLIN CITY,Italian,4b278515f964a520108724e3,Antica Venezia,2,4.7,190
+DUBLIN CITY,Italian,4b13cc01f964a5203f9923e3,La Pizza,1,4.4,2276
+DUBLIN CITY,Argentinian,4b17bbedf964a5209bc723e3,Buenos Aires Grill,-,3.4,41
+DUBLIN CITY,Argentinian,50eefe47e4b02636f5b8cfc5,South American Shop,2,4.5,102
+DUBLIN CITY,Brazilian,5a634fce535d6f219cb6f038,Café Mineiro,1,4.3,1375
+DUBLIN CITY,Brazilian,570a5d2d498efb0eb939d232,Sabor Nordestino,1,4.4,355
+DUBLIN CITY,Brazilian,58cc013e6c682b5ee132f695,Fusion Brazilian Grill,1,4.2,815
+DUBLIN CITY,Brazilian,5b26ab8047f87600393f4f04,Wasabi Bar & Grill,-,4,532
+DUBLIN CITY,Brazilian,5d473fe57928f300085eaec2,Fabi’s Grill,2,4.2,501
+DUBLIN CITY,Brazilian,581ca29ecb2566059e40b1ff,Three Spirits Bar & Grill,-,0,-
+DUBLIN CITY,Moroccan,4af413cdf964a520fcef21e3,Coppinger Row,2,4.4,526
+DUBLIN CITY,Moroccan,4c51d0242543a5932a2c8384,El Bahia,2,4.1,223
+DUBLIN CITY,Mexican,5c7ecd03da2e00002c486549,El Grito Mexican Taqueria,1,4.7,1432
+DUBLIN CITY,Mexican,4cf39956899c6ea86048fcc1,Pablo Picante,1,4.5,1198
+DUBLIN CITY,Mexican,4f32e1dae4b06e8ecb5653a9,777,2,4.3,847
+DUBLIN CITY,Mexican,50c0acdbe4b06a4d403486d9,Pablos Tortas,1,4.8,13
+DUBLIN CITY,Mexican,503224d8e4b07f473b1be4ef,Pablo Picante,1,4.5,1198
+DUBLIN CITY,Mexican,5491f838498e664c8de3a566,Xico,2,4,1089
+DUBLIN CITY,Mexican,5b57907d037be1002bd989a7,Masa,-,4.3,547
+DUBLIN CITY,Mexican,4b7bf2b6f964a52047752fe3,Pablo Picante,1,4.5,1198
+DUBLIN CITY,Mexican,5ac1240e5f68b97e45f68f02,The Hungry Mexican,2,4.3,676
+DUBLIN CITY,Mexican,4b3ba516f964a520e27725e3,Acapulco Restaurant,2,4.1,1004
+DUBLIN CITY,Mexican,4b2289b0f964a520974824e3,Lemon Crêpe & Coffee Company,2,4.5,628
+DUBLIN CITY,Mexican,4ade0f06f964a520ce7021e3,Cactus Jacks,2,4.1,746
+DUBLIN CITY,Mexican,5017dd32e4b06e41966c8a5a,Saburritos,1,3.9,616
+DUBLIN CITY,Mexican,4f561c9ce4b0b1a430cd2ba2,Mama's Revenge,1,4.5,636
+DUBLIN CITY,Mexican,59e796441ffe973e32b2195d,Boojum,1,4.4,790
+DUBLIN CITY,Mexican,542405e1498e6c3908344ab2,Little Ass Burrito Bar,1,4.4,398
+DUBLIN CITY,Mexican,547483a4498efc23658addd1,Mission Mexican Street Food,-,4,42
+DUBLIN CITY,Mexican,4af2d5a7f964a520abe821e3,Herbstreet,2,4.4,1520
+DUBLIN CITY,Mexican,5ab3ab5e12c8f048684317dd,Boojum,1,4.3,1020
+DUBLIN CITY,Mexican,4e173f096284ea7246ec4a2f,Tolteca,1,4.3,550
+DUBLIN CITY,Mexican,593ebeda2ebb34774f608d3f,Boojum,1,4.4,790
+DUBLIN CITY,Mexican,4afdc90af964a520d92a22e3,Mexico to Rome,2,4,596
+DUBLIN CITY,Mexican,5b1c23993d4791002c62dfdc,Salsa Authentic Mexican Food & Bar,-,4.6,293
+DUBLIN CITY,Mexican,50d6f871e4b06651d86daac9,Tolteca,1,4.2,856
+DUBLIN CITY,Mexican,5ace3729446ea60daa76f8db,Boojum,1,4.4,790
+DUBLIN CITY,Mexican,4e84cd29d22da6d0e39a5c61,Burritos & Blues,1,3.8,109
+DUBLIN CITY,Mexican,5427dc9e498e2d89dfd40c56,Brother Hubbard South,2,4.4,804
+DUBLIN CITY,Mexican,574b1fc2498ee450086d0e0a,Saburritos,1,3.9,616
+DUBLIN CITY,Mexican,4c595bd9f346c9288d464cca,Burritos & Blues,1,4.2,735
+DUBLIN CITY,Mexican,5afef93d0802d4002c0e89dc,Pablo Picante,1,4.5,1198
+DUBLIN CITY,Mexican,52ac724e498e380f50ee4b90,El Gringo Burrito,-,1.6,32
+DUBLIN CITY,Mexican,52a76e2011d2608230159c5c,Belly Bites,-,3.7,21
+DUBLIN CITY,Persian,4af1a997f964a520f6e121e3,Zaytoon,1,4.4,2756
+DUBLIN CITY,Portuguese,4af480b7f964a5203cf321e3,The Port House,2,4.5,914
+DUBLIN CITY,Portuguese,4d4bff52a22c224b7d44f593,The Counter,2,4.2,1236
+DUBLIN CITY,Russian,50d17a39e4b08647fe9dc66f,Goose on the Loose,1,4.5,232
+DUBLIN CITY,Russian,4c79004c93ef236af6f6ad0f,Admiral Restaurant,2,4.5,1004
+DUBLIN CITY,Russian,4af2c6f1f964a52076e821e3,Dylan Hotel,3,4.3,572
+DUBLIN CITY,Russian,4b257a6cf964a520987224e3,The Jar,2,4.2,728
+DUBLIN CITY,Scottish,4b589535f964a5207a5f28e3,Murray's Bar,2,4.4,3669
+DUBLIN CITY,Spanish,4af480b7f964a5203cf321e3,The Port House,2,4.5,914
+DUBLIN CITY,Spanish,4af1fed4f964a52001e521e3,The Port House Pintxo,2,4.3,643
+DUBLIN CITY,Spanish,517bd0cde4b028cb9d9812c4,Viva,2,4.3,325
+DUBLIN CITY,Spanish,4d7fd9a5e7e1721edc53fa0b,La Bodega,2,4.4,366
+DUBLIN CITY,Spanish,51783f96498ec47ae0539bb4,Las Tapas de Lola,2,4.6,1359
+DUBLIN CITY,Spanish,4ade0f0af964a520e67021e3,The Market Bar,2,4.1,2270
+DUBLIN CITY,Spanish,4b2bc7faf964a520daba24e3,Salamanca,2,4.1,1536
+DUBLIN CITY,Spanish,4ade0f06f964a520ce7021e3,Cactus Jacks,2,4.1,746
+DUBLIN CITY,Spanish,50509c5ee4b052774b9e0350,Peperina Garden Bistro,2,4.4,252
+DUBLIN CITY,Spanish,5085671ee4b068d89e1ff5b6,Asador,2,4.4,685
+DUBLIN CITY,Spanish,4d270f8d55a8b60c901cc0c0,Café Bar H,2,3.8,537
+DUBLIN CITY,Spanish,4ef244b7f9ab11b14e9ecbc1,El Toro Bravo,-,3.7,3
+DUBLIN CITY,Spanish,4afb1fe7f964a5205a1b22e3,The Good Bits,-,0,-
+DUBLIN CITY,Turkish,5427dc9e498e2d89dfd40c56,Brother Hubbard South,2,4.4,804
+DUBLIN CITY,Turkish,4afb620bf964a520861d22e3,Iskanders,-,3.8,544
+DUBLIN CITY,Turkish,51e33710498eaaa8b464dd58,Istanbel Kebab,-,4.1,1641
+DUBLIN CITY,Turkish,55f44076498e0ea3a1612725,Pasha Restaurant,1,4.2,686
+CORK COUNTY,American,4ba77a35f964a520db9639e3,Captain America's,2,4.1,670
+CORK COUNTY,American,584fdbd933a2454ad8364e3a,Tradehouse Central,2,4.2,668
+CORK COUNTY,Chinese,4c3754b00a71c9b6019e3ec9,Yuan Ming Yuan,2,4.6,632
+CORK COUNTY,Chinese,4db9d25193a080554828249a,Wylam Chinese Restaurant,2,4,122
+CORK COUNTY,Chinese,4c029aef30229521c86ede81,Great Wall Chinese Restaurant,1,4,79
+CORK COUNTY,Chinese,4d42c8a658e9b1f7d899dcce,Aroma,-,4.5,141
+CORK COUNTY,Chinese,4ebae4bf6c25faf0a50d6b78,Wilton Willow,2,4.4,188
+CORK COUNTY,Chinese,4ba1100bf964a520fa9337e3,Pearl River,2,4.2,140
+CORK COUNTY,Chinese,4baa5012f964a520e05d3ae3,Royal Pacific,2,4.5,188
+CORK COUNTY,Chinese,4bf2e37294af2d7f90de3872,New Golden House Chinese restaurant,2,4.2,62
+CORK COUNTY,Japanese,5501ee08498e47a7d8315954,Miyazaki Japanese Take Away,2,4.7,641
+CORK COUNTY,Japanese,4b7c1ff9f964a520657e2fe3,Dashi Sushi & Noodle Bar,2,4.5,274
+CORK COUNTY,Japanese,567ac4a0498ea45d2851304e,Maki Sushi Rolls,-,4.5,17
+CORK COUNTY,Thai,53c66605498eed46c6d28489,Ramen,1,4.2,703
+CORK COUNTY,Thai,4f84281ae4b05b0094649fc5,Thai Irish,1,4.5,424
+CORK COUNTY,English,4c4034e5520fa59378abc7ac,O'Flynns Gourmet Sausage Co,1,4.5,302
+CORK COUNTY,French,4c265c55a852c928e584e66c,Greenes Restaurant,3,4.6,508
+CORK COUNTY,French,4c24ed6ba852c92817f3e36c,Les Gourmandises,3,4.6,107
+CORK COUNTY,French,56715c7c498e9b15cf6246cf,Ali's Kitchen,2,4.7,428
+CORK COUNTY,Indian,50fff55ae4b0176c75473fec,Iyers,2,4.6,282
+CORK COUNTY,Indian,4c1b619f63750f47c3b8b467,Bombay Palace,2,4.2,467
+CORK COUNTY,Indian,4ba7f01af964a52030c039e3,Spice of India,2,4.3,146
+CORK COUNTY,Indian,4d236099b69c6dcbc0d68a95,Spice Route,1,4.1,211
+CORK COUNTY,Indian,51f6b7d8498e5eb862ba107d,Spice Inn,2,3.7,94
+CORK COUNTY,Indian,4b37d118f964a520b94625e3,Eastern Tandoori,2,4.1,156
+CORK COUNTY,Italian,4ebc25ef4901a730a8d72f36,La Dolce Vita,2,4.4,247
+CORK COUNTY,Italian,552972f2498ea4c3e3957f94,Pompeii Pizza,-,3.9,24
+CORK COUNTY,Italian,51ce1649454ab77e4efdffd7,Napoli Italian delicatessen/cafe',2,4.7,200
+CORK COUNTY,Italian,4e1c1ffb62e11cdc743f1407,Gallo & Galetti,2,4.5,494
+CORK COUNTY,Italian,4c5ff561832fa593077deed3,Pizza San Marco,2,4.5,327
+CORK COUNTY,Italian,4b6b365ef964a520e8f92be3,Ristorante Rossini,2,4.5,571
+CORK COUNTY,Italian,4cc0797597bc721e3bb38b67,Bacco Ristorante Italiano,2,4.4,157
+CORK COUNTY,Italian,4bef33ec2ff520a15647e8a2,Uncle Pete's,2,4.4,637
+CORK COUNTY,Italian,54d3d651498e241684db6061,Marcello's,2,4.5,420
+CORK COUNTY,Italian,4c6c025de6b7b1f77bc2a58e,Ristorante Romano,2,4.3,190
+CORK COUNTY,Italian,4c24952fb7b8a5932ca33ce8,Subway,1,4.3,155
+CORK COUNTY,Brazilian,5debab23775cb40008e65bdf,Sabor Nordestino,-,4.6,99
+CORK COUNTY,Moroccan,5074567fe4b04872e9f65ac2,ORSO Kitchen & Bar,2,4.6,423
+CORK COUNTY,Mexican,4b5b41d6f964a520f3ee28e3,Café Mexicana,2,4.5,788
+CORK COUNTY,Mexican,52d6c09c498e41e955a8bb72,Burritos & Blues,-,4.5,363
+CORK COUNTY,Mexican,58a08134fd2716350cfb8b45,Boojum,1,4.5,1006
+CORK COUNTY,Polish,55f4246f498ecab71e3e2109,Comix Bistro,1,4.5,374
+CORK COUNTY,Polish,54189d8b498efb83a45f1cbc,Crazy Kebab,1,4.7,245
+CORK COUNTY,Spanish,4b50be14f964a520673027e3,El Vino,2,4.6,135
+CORK COUNTY,Turkish,5b75ab6bdd12f8002c4b48d7,Sultan Delight,-,4.3,11
+FINGAL,American,4bb4daf4bc82a5935bf33e72,Eddie Rocket's,2,3.9,681
+FINGAL,American,52a8b4fe11d2c4d0fff4879b,Hogs & Heifers,2,4.3,1373
+FINGAL,American,5cb5120561f070002b514b4e,Five Guys,-,4,446
+FINGAL,Chinese,4d62a96fd979ba7af706dfc7,The Orchid Chinese Restaurant,2,4.4,108
+FINGAL,Thai,4b2cf82af964a52080cb24e3,Siam Thai,-,0,-
+FINGAL,Thai,4b589bb8f964a520ff6028e3,Pink Elephant Thai Restaurant,2,4.3,213
+FINGAL,French,4ade0f38f964a520887121e3,Bon Appetit,3,4.4,568
+FINGAL,Indian,4b1d4020f964a520a50d24e3,Indie Spice,2,4.4,549
+FINGAL,Indian,4b9cd6e5f964a520237e36e3,Kajjal,2,4.7,552
+FINGAL,Indian,4b103fc3f964a5203a6c23e3,Chillishaker,2,4.4,267
+FINGAL,Italian,4bd72b0509ecb7138f48467c,Mario's,2,3.9,133
+FINGAL,Italian,4d12c0a1f898b1f76961db81,Apache Pizza,-,3.4,175
+FINGAL,Italian,5a3a817a029a550551ddd213,The Italian Kitchen,-,4.1,49
+FINGAL,Italian,5a5c91055455b2768becafd5,The Italian Kitchen,-,4.1,49
+FINGAL,Italian,4d876a53651041bd88119b30,Subway,1,4.1,203
+FINGAL,Italian,4bd5bf427b1876b024418b86,Little Venice,2,4.3,855
+FINGAL,Spanish,4b093562f964a520b71423e3,Gourmet Food Parlour,2,4.4,896
+SOUTH DUBLIN,American,4ce13b9ef8a4a143cd44e9bc,Eddie Rocket's,2,4,507
+SOUTH DUBLIN,American,4c63f71186b6be9a93c48f34,Eddie Rocket's,2,3.9,425
+SOUTH DUBLIN,Chinese,4cf9493f7945224b1cf878e7,Tamara,2,3.9,192
+SOUTH DUBLIN,Chinese,4dd91c44d1647fcf3e72dd2f,Pattaya Thai Chinese Restaurant,2,4.1,443
+SOUTH DUBLIN,Chinese,4deea81e18380c912df6e6f1,Choices Chinese Take-Away,1,4,164
+SOUTH DUBLIN,Chinese,4cdc443d39172d43109e83d8,Fortune Chinese Takeaway,1,3.6,46
+SOUTH DUBLIN,Chinese,4dab45d1fa8cc764974913c6,New Territory Chinese,2,4,81
+SOUTH DUBLIN,Chinese,4b9d45d8f964a520019f36e3,Lok Moon,1,4.3,83
+SOUTH DUBLIN,Chinese,4bd324ec77b29c7422069082,Chrysanthemum,2,4.2,225
+SOUTH DUBLIN,Chinese,4c718b9213228cfa7dd32865,Chuan City,-,4.5,178
+SOUTH DUBLIN,Thai,4cf9493f7945224b1cf878e7,Tamara,2,3.9,192
+SOUTH DUBLIN,Australian,5470d887498ea81c5eda84e4,Aussie Outback,2,4.3,641
+SOUTH DUBLIN,French,4e1b18ebaeb7d09fc835214f,Village Coffee House,1,4.3,268
+SOUTH DUBLIN,Indian,58ad8c2bfc73d42fbcd7fb87,Mams Indian Restaurant,2,4,149
+SOUTH DUBLIN,Indian,4f0c7ab6e4b0a87afad6b41f,Kundan Tandoori,-,4.2,158
+SOUTH DUBLIN,Indian,4fb39a13e4b06686488110cd,lake view cafe,1,4.2,137
+SOUTH DUBLIN,Italian,4b536132f964a520ab9927e3,Paparazzi,-,0,-
+KILDARE,American,4e492e06c65bd6ffbeb471aa,Eddie Rocket's,2,4.1,426
+KILDARE,American,549abdba498e4c9f52a09d06,Eddie Rocket's,2,4.1,-
+KILDARE,Chinese,4bc376002a89ef3b880ff588,The Flaming Wok,-,4.3,9
+KILDARE,Japanese,5b81871e598e64002c7d4263,fujiyama,2,4.7,299
+KILDARE,Japanese,5978c0fcc4df1d06f416e219,Tani Japanese Restaurant,2,4.6,239
+KILDARE,Thai,56477bb5498eafa53f68d377,Thai Station,2,4.4,104
+KILDARE,French,4bdb63422a3a0f47b9ceaeb6,Brown Bear,2,4.7,170
+KILDARE,Indian,521e31d911d243e1d2130fed,Kingfisher Indian Restaurant,-,0,-
+KILDARE,Indian,4e05c709d4c03ae0b9bf0a31,The Bombay Bistro,1,4.7,120
+KILDARE,Italian,4b9b9064f964a520d00f36e3,L'Officina by Dunne & Crescenzi,2,3.9,888
+KILDARE,Italian,4cc1dbf342d1b60cf7ab0c13,Fountain Take Away,-,4.3,97
+KILDARE,Italian,592b18ac4a1cc037f281e959,Rustic Italian Restaurant & Bar,2,4.4,758
+DÚN LAOGHAIRE-RATHDOWN,American,4b5ac4c8f964a520e2d328e3,Eddie Rocket's,2,4.1,800
+DÚN LAOGHAIRE-RATHDOWN,American,4b62e884f964a5205f582ae3,Eddie Rocket's,2,3.8,285
+DÚN LAOGHAIRE-RATHDOWN,Chinese,4c8b54cfe51e6dcbdb5f71de,China Sichuan,3,4.6,669
+DÚN LAOGHAIRE-RATHDOWN,Chinese,4bc609d051b376b073df1a6f,Fu Moon,2,4.1,96
+DÚN LAOGHAIRE-RATHDOWN,Chinese,4dbda9adf7b1ab37dd7ba737,Lee's Kitchen,2,3.5,51
+DÚN LAOGHAIRE-RATHDOWN,Chinese,4daaed065da3ba8a47953c14,Green Dragon Well,2,4,129
+DÚN LAOGHAIRE-RATHDOWN,Chinese,4c964fc9f7cfa1cdb113c515,De Luxe Chinese Takeaway,-,4.1,70
+DÚN LAOGHAIRE-RATHDOWN,Japanese,523207c911d2688bcaff978e,Michie Sushi,2,4.4,189
+DÚN LAOGHAIRE-RATHDOWN,French,5856a5815a586918eed3e1c1,The Cake Room and Slow Food Experience,-,4.8,57
+DÚN LAOGHAIRE-RATHDOWN,Italian,510e895ae4b0681bb84ff304,That's Amore,2,4.8,487
+DÚN LAOGHAIRE-RATHDOWN,Italian,4dfe2e8bc65b67789892081e,Café 31,2,4.4,277
+DÚN LAOGHAIRE-RATHDOWN,Italian,4c8a270c6418a1435d05ddce,La Dolce Vita,2,4.1,464
+DÚN LAOGHAIRE-RATHDOWN,Italian,4b49ff33f964a5207b7726e3,Milano,2,3.9,518
+DÚN LAOGHAIRE-RATHDOWN,Italian,4e8c4a5b9adf4a7ef30743c3,Toscana Italian Restaurant,2,4.3,567
+DÚN LAOGHAIRE-RATHDOWN,Italian,4f31276fe4b0dd99b37e63cc,SiSi @ Central Cafe,2,4.1,117
+MEATH,Chinese,4d0936551657a35d69c130e7,China Garden,2,4.4,515
+MEATH,Chinese,4ca76af0a6e08cfadb708494,Oriental Palace,2,4.4,264
+MEATH,Indian,4c19dce4d4d9c928b89cf129,Khan Tandoori,2,4.4,141
+MEATH,Indian,4c15290277cea59350bcd160,Gaylords,2,4.5,166
+MEATH,Italian,4c027a53310fc9b64377c461,Marini restaurant,1,4.3,319
+LIMERICK CITY AND COUNTY,American,4b913914f964a52039ab33e3,Texas Steakout,2,4.5,1782
+LIMERICK CITY AND COUNTY,Chinese,4b8a819ff964a520b96f32e3,Jasmine Palace,2,4.5,1119
+LIMERICK CITY AND COUNTY,Japanese,528a27fd11d2eaea10238607,Taikichi,2,4.6,816
+LIMERICK CITY AND COUNTY,Thai,5330455f498e1b8bd57ec6ad,Aroi Asian Street Food,1,4.5,350
+LIMERICK CITY AND COUNTY,Thai,5399ef00498e709d5ee94fac,Aroi Asian Street Food,1,4.5,350
+LIMERICK CITY AND COUNTY,Thai,59a304ba3b4e0049057fb763,Lana Asian Street Food,1,4.5,344
+LIMERICK CITY AND COUNTY,French,4fcb6723e4b0d9a5f03b9039,Bon Appetit,-,4.4,9
+LIMERICK CITY AND COUNTY,Indian,4c337d763896e21e3b1fea90,Mogul Emperor,2,4.2,249
+LIMERICK CITY AND COUNTY,Indian,4d1cfaa3dd6a236a977f1938,Spice Of India,2,4.3,161
+LIMERICK CITY AND COUNTY,Italian,4f0084dfb6346feaed6ee1a7,Marco Polo,2,4.3,947
+LIMERICK CITY AND COUNTY,Italian,4bca1d1ab6c49c7425cc8f91,Milano,2,4.4,546
+LIMERICK CITY AND COUNTY,Italian,4eb5773a6c2590eb8810957d,La Piccola Italia,2,4.6,172
+LIMERICK CITY AND COUNTY,Mexican,51e6b3f8498e20ea9235d21a,Badass Burritos,1,4.5,41
+LIMERICK CITY AND COUNTY,Mexican,5b168d44c9f907002c7fd1a6,Boojum,1,4.4,683
+LIMERICK CITY AND COUNTY,Mexican,581dda672fea3626411f549f,Mexican Food Dudes,-,3.7,6
+LIMERICK CITY AND COUNTY,Turkish,5089a085e4b07f1e61ed8bfa,Adana Char Grill,-,3.3,16
+TIPPERARY,Chinese,5627d6d4498e46e5c103951a,Jumbo Reunion Chinese Restaurant,2,4,24
+TIPPERARY,Chinese,4af9e4a6f964a520121522e3,Pearl Garden,-,4.1,14
+TIPPERARY,Thai,5dbb352636271b000888a5f5,Yi Thai,2,4.6,216
+TIPPERARY,Indian,4c7c38f009b29c74275de03c,Stars of India,2,4.8,224
+TIPPERARY,Indian,590a1d9fbfc6d0617a864531,Saffron Indian cuisine,2,4.4,131
+TIPPERARY,Italian,525991ab11d27782614a3238,Gino's Diner,-,3.4,150

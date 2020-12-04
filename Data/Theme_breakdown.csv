@@ -1,0 +1,765 @@
+THEME,TABLES WITHIN THEMES,FIELD NAME WITHIN SAPS TABLES,DESCRIPTION OF FIELD
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE0M,Age 0 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE1M,Age 1 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE2M,Age 2 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE3M,Age 3 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE4M,Age 4 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE5M,Age 5 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE6M,Age 6 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE7M,Age 7 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE8M,Age 8 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE9M,Age 9 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE10M,Age 10 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE11M,Age 11 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE12M,Age 12 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE13M,Age 13 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE14M,Age 14 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE15M,Age 15 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE16M,Age 16 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE17M,Age 17 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE18M,Age 18 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE19M,Age 19 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE20_24M,Age 20 -24 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE25_29M,Age 25 -29 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE30_34M,Age 30 -34 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE35_39M,Age 35 -39 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE40_44M,Age 40 -44 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE45_49M,Age 45 -49 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE50_54M,Age 50 -54 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE55_59M,Age 55 -59 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE60_64M,Age 60 -64 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE65_69M,Age 65 -69 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE70_74M,Age 70 -74 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE75_79M,Age 75 -79 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE80_84M,Age 80 -84 Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGEGE_85M,Age 85+ Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGETM,Total Males
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE0F,Age 0 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE1F,Age 1 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE2F,Age 2 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE3F,Age 3 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE4F,Age 4 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE5F,Age 5 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE6F,Age 6 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE7F,Age 7 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE8F,Age 8 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE9F,Age 9 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE10F,Age 10 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE11F,Age 11 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE12F,Age 12 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE13F,Age 13 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE14F,Age 14 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE15F,Age 15 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE16F,Age 16 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE17F,Age 17 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE18F,Age 18 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE19F,Age 19 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE20_24F,Age 20 -24 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE25_29F,Age 25 -29 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE30_34F,Age 30 -34 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE35_39F,Age 35 -39 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE40_44F,Age 40 -44 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE45_49F,Age 45 -49 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE50_54F,Age 50 -54 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE55_59F,Age 55 -59 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE60_64F,Age 60 -64 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE65_69F,Age 65 -69 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE70_74F,Age 70 -74 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE75_79F,Age 75 -79 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE80_84F,Age 80 -84 Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGEGE_85F,Age 85+ Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGETF,Total Females
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE0T,Age 0 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE1T,Age 1 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE2T,Age 2 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE3T,Age 3 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE4T,Age 4 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE5T,Age 5 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE6T,Age 6 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE7T,Age 7 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE8T,Age 8 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE9T,Age 9 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE10T,Age 10 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE11T,Age 11 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE12T,Age 12 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE13T,Age 13 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE14T,Age 14 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE15T,Age 15 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE16T,Age 16 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE17T,Age 17 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE18T,Age 18 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE19T,Age 19 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE20_24T,Age 20 -24 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE25_29T,Age 25 -29 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE30_34T,Age 30 -34 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE35_39T,Age 35 -39 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE40_44T,Age 40 -44 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE45_49T,Age 45 -49 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE50_54T,Age 50 -54 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE55_59T,Age 55 -59 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE60_64T,Age 60 -64 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE65_69T,Age 65 -69 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE70_74T,Age 70 -74 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE75_79T,Age 75 -79 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGE80_84T,Age 80 -84 Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGEGE_85T,Age 85+ Total
+"Theme 1 Sex, Age and Marital Status","Population aged 0-19 by sex and year of age, persons aged 20+ by sex and age group",T1_1AGETT,Total
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2SGLM,Single Males
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2MARM,Maried Males
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2SEPM,Separated Males
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2DIVM,Divorced Males
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2WIDM,Widowed Males
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2TM,Total Males
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2SGLF,Single Females
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2MARF,Maried Females
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2SEPF,SeparatedFemales
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2DIVF,Divorced Females
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2WIDF,Widowed Females
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2TF,Total Females
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2SGLT,Single Total
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2MART,Maried Total
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2SEPT,Separated Total
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2DIVT,Divorced Total
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2WIDT,Widowed Total
+"Theme 1 Sex, Age and Marital Status",Population by sex and marital status,T1_2T,Total 
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1IEBP,Ireland Place of Birth
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1UKBP,UK Place of Birth
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1PLBP,Poland Place of Birth
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1LTBP,Lithuania Place of Birth
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1EUBP,Other EU 27 Place of Birth
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1RWBP,Rest of World Place of Birth
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1NSBP,Not stated Place of Birth
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1TBP,Total Place of Birth
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1IEN,Irish by Nationality
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1UKN,UK by Nationality
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1PLN,Polish by Nationality
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1LTN,Lithuanian by Nationality
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1EUN,Other EU 27 by Nationality
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1RWN,Rest of World by Nationality
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1NSN,Not Stated by Nationality
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by place of birth and nationality ,T2_1TN,Total by Nationality
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by ethnic or cultural background ,T2_2WI,White Irish
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by ethnic or cultural background ,T2_2WIT,White Irish Traveller
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by ethnic or cultural background ,T2_2OW,Other White
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by ethnic or cultural background ,T2_2BBI,Black or Black Irish
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by ethnic or cultural background ,T2_2AAI,Asian or Asian Irish
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by ethnic or cultural background ,T2_2OTH,Other
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by ethnic or cultural background ,T2_2NS,Not Stated
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population by ethnic or cultural background ,T2_2T,Total
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population aged 1 and over by usual residence 1 year before Census Day,T2_3SA,Same Address
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population aged 1 and over by usual residence 1 year before Census Day,T2_3EC,Elsewhere in County
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population aged 1 and over by usual residence 1 year before Census Day,T2_3EI,Elsewhere in Ireland
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population aged 1 and over by usual residence 1 year before Census Day,T2_3OI,Outside Ireland
+"Theme 2 Migration, Ethnicity and Religion",Usually resident population aged 1 and over by usual residence 1 year before Census Day,T2_3T,Total
+"Theme 2 Migration, Ethnicity and Religion",Population by religion,T2_4CA,Catholic
+"Theme 2 Migration, Ethnicity and Religion",Population by religion,T2_4OR,Other Religion
+"Theme 2 Migration, Ethnicity and Religion",Population by religion,T2_4NR,No Religion
+"Theme 2 Migration, Ethnicity and Religion",Population by religion,T2_4NS,Not Stated
+"Theme 2 Migration, Ethnicity and Religion",Population by religion,T2_4T,Total
+"Theme 2 Migration, Ethnicity and Religion",Speakers of foreign languages by language spoken ,T2_5T,Total
+"Theme 2 Migration, Ethnicity and Religion",Speakers of foreign languages by language spoken ,T2_5PL,Polish
+"Theme 2 Migration, Ethnicity and Religion",Speakers of foreign languages by language spoken ,T2_5FR,French
+"Theme 2 Migration, Ethnicity and Religion",Speakers of foreign languages by language spoken ,T2_5LT,Lithuanian
+"Theme 2 Migration, Ethnicity and Religion",Speakers of foreign languages by language spoken ,T2_5OTH,Other
+"Theme 2 Migration, Ethnicity and Religion",Speakers of foreign languages by ability to speak English ,T2_6T,Total
+"Theme 2 Migration, Ethnicity and Religion",Speakers of foreign languages by ability to speak English ,T2_6VW,Very Well
+"Theme 2 Migration, Ethnicity and Religion",Speakers of foreign languages by ability to speak English ,T2_6W,Well
+"Theme 2 Migration, Ethnicity and Religion",Speakers of foreign languages by ability to speak English ,T2_6NW,Not Well
+"Theme 2 Migration, Ethnicity and Religion",Speakers of foreign languages by ability to speak English ,T2_6NAA,Not At All
+"Theme 2 Migration, Ethnicity and Religion",Speakers of foreign languages by ability to speak English ,T2_6NS,Not Stated
+Theme 3 Irish language,Population aged 3 or over by ability to speak Irish,T3_1YES,Yes (Speak Irish)
+Theme 3 Irish language,Population aged 3 or over by ability to speak Irish,T3_1NO,No (Speak Irish)
+Theme 3 Irish language,Population aged 3 or over by ability to speak Irish,T3_1NS,Not Stated (Speak Irish)
+Theme 3 Irish language,Population aged 3 or over by ability to speak Irish,T3_1T,Total
+Theme 3 Irish language,Irish speakers aged 3 or over by frequency of speaking Irish,T3_2T,Total
+Theme 3 Irish language,Irish speakers aged 3 or over by frequency of speaking Irish,T3_2DW,Daily Within education system
+Theme 3 Irish language,Irish speakers aged 3 or over by frequency of speaking Irish,T3_2DWO,Daily Within and Outside education system
+Theme 3 Irish language,Irish speakers aged 3 or over by frequency of speaking Irish,T3_2DO,Daily Outside educaton system
+Theme 3 Irish language,Irish speakers aged 3 or over by frequency of speaking Irish,T3_2WO,Weekly Outside education system
+Theme 3 Irish language,Irish speakers aged 3 or over by frequency of speaking Irish,T3_2LO,Less Often outside education system
+Theme 3 Irish language,Irish speakers aged 3 or over by frequency of speaking Irish,T3_2NO,Never Outside education system
+Theme 3 Irish language,Irish speakers aged 3 or over by frequency of speaking Irish,T3_2NSO,Not Stated Outside education system
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3DM,Daily Males
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3WM,Weekly Males
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3LOM,Less Often Males
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3NM,Never Males
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3TM,Total Males
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3DF,Daily Females
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3WF,Weekly Females
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3LOF,Less Often Females
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3NF,Never Females
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3TF,Total Females
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3DT,Daily Total
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3WT,Weekly Total
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3LOT,Less Often Total
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3NT,Never Total
+Theme 3 Irish language,"Irish speakers within education aged 3+, by frequency of speaking Irish outside education",T3_3TT,Total
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_2PF,2 Persons (No of families)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_3PF,3 Persons (No of families)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_4PF,4 Persons (No of families)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_5PF,5 Persons (No of families)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_GRE_6PF,6 or More Persons (No of families)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_TF,Total
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_2PP,2 Persons (No of persons)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_3PP,3 Persons (No of persons)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_4PP,4 Persons (No of persons)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_5PP,5 Persons (No of persons)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_GRE_6PP,6 or More Persons (No of persons)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_TP,Total
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_2PC,2 Persons (No of children)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_3PC,3 Persons (No of children)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_4PC,4 Persons (No of children)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_5PC,5 Persons (No of children)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_GRE_6PC,6 or More Persons (No of children)
+Theme 4 Families,"Families, family members and children in families, by size of family",T4_1_TC,Total
+Theme 4 Families,Family units with children by size and age of children ,T4_2_NCU15,Families without children - All children under 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_1CU15,Families with 1 child - All children under 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_2CU15,Families with 2 children - All children under 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_3CU15,Familes with 3 children - All children under 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_4CU15,Families with 4 children - All children under 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_GE5U15,Families with 5 or more children - All children under 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_NCO15,Families without children - All children aged 15 or over
+Theme 4 Families,Family units with children by size and age of children ,T4_2_1CO15,Families with 1 child - All children aged 15 or over
+Theme 4 Families,Family units with children by size and age of children ,T4_2_2CO15,Families with 2 children - All children aged 15 or over
+Theme 4 Families,Family units with children by size and age of children ,T4_2_3CO15,Familes with 3 children - All children aged 15 or over
+Theme 4 Families,Family units with children by size and age of children ,T4_2_4CO15,Families with 4 children - All children aged 15 or over
+Theme 4 Families,Family units with children by size and age of children ,T4_2_GE5O15,Families with 5 or more children - All children aged 15 or over
+Theme 4 Families,Family units with children by size and age of children ,T4_2_NCUO15,Families without children - Children under and over 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_1CUO15,Families with 1 child - Children under and over 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_2CUO15,Families with 2 children - Children under and over 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_3CUO15,Familes with 3 children - Children under and over 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_4CUO15,Families with 4 children - Children under and over 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_GE5UO15,Families with 5 or more children - Children under and over 15
+Theme 4 Families,Family units with children by size and age of children ,T4_2_NCT,Families without children - Total
+Theme 4 Families,Family units with children by size and age of children ,T4_2_1CT,Families with 1 child - Total
+Theme 4 Families,Family units with children by size and age of children ,T4_2_2CT,Families with 2 children - Total
+Theme 4 Families,Family units with children by size and age of children ,T4_2_3CT,Familes with 3 children - Total
+Theme 4 Families,Family units with children by size and age of children ,T4_2_4CT,Families with 4 children - Total
+Theme 4 Families,Family units with children by size and age of children ,T4_2_GE5T,Families with 5 or more children - Total
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FLT15C,Couples with children - All children under 15 (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FGE15C,Couples with children - All children aged 15 or over (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FOTH15C,Couples with children - Children under and over 15 (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FTC,Couples with children - Total (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FLT15LM,Lone mothers with children - All children under 15 (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FGE15LM,Lone mothers with children - All children aged 15 or over (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FOTH15LM,Lone mothers with children - Children under and over 15 (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FTLM,Lone mothers with children - Total (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FLT15LF,Lone fathers with children - All children under 15 (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FGE15LF,Lone fathers with children - All children aged 15 or over (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FOTH15LF,Lone fathers with children - Children under and over 15 (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3FTLF,Lone fathers with children - Total (No of families)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3CLT15C,Couples with children - All children under 15 (No of children)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3CGE15C,Couples with children - All children aged 15 or over (No of children)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3COTH15C,Couples with children - Children under and over 15 (No of children)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3CTC,Couples with children - Total (No of children)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3CLT15LM,Lone mothers with children - All children under 15 (No of children)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3CGE15LM,Lone mothers with children - All children aged 15 or over (No of children)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3COTH15LM,Lone mothers with children - Children under and over 15 (No of children)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3CTLM,Lone mothers with children - Total (No of children)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3CLT15LF,Lone fathers with children - All children under 15 (No of children)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3CGE15LF,Lone fathers with children - All children aged 15 or over (No of children)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3COTH15LF,Lone fathers with children - Children under and over 15 (No of children)
+Theme 4 Families,Family units with children by type of family and age of children,T4_3CTLF,Lone fathers with children - Total (No of children)
+Theme 4 Families,Families by age of youngest child ,T4_4AGE0_4F,Families with youngest child aged 0-4 (No of families)
+Theme 4 Families,Families by age of youngest child ,T4_4AGE5_9F,Families with youngest child aged 5-9 (No of families)
+Theme 4 Families,Families by age of youngest child ,T4_4AGE10_14F,Families with youngest child aged 10-14 (No of families)
+Theme 4 Families,Families by age of youngest child ,T4_4AGE15_19F,Families with youngest child aged 15-90 (No of families)
+Theme 4 Families,Families by age of youngest child ,T4_4AGE_GE20F,Families with youngest child aged 20+ (No of families)
+Theme 4 Families,Families by age of youngest child ,T4_4TF,Total  (No of families)
+Theme 4 Families,Families by age of youngest child ,T4_4AGE0_4P,Families with youngest child aged 0-4 (No of persons)
+Theme 4 Families,Families by age of youngest child ,T4_4AGE5_9P,Families with youngest child aged 5-9 (No of persons)
+Theme 4 Families,Families by age of youngest child ,T4_4AGE10_14P,Families with youngest child aged 10-14 (No of persons)
+Theme 4 Families,Families by age of youngest child ,T4_4AGE15_19P,Families with youngest child aged 15-90 (No of persons)
+Theme 4 Families,Families by age of youngest child ,T4_4AGE_GE20P,Families with youngest child aged 20+ (No of persons)
+Theme 4 Families,Families by age of youngest child ,T4_4TP,Total  (No of persons)
+Theme 4 Families,Families by family cycle ,T4_5PFF,Pre-family (No of families)
+Theme 4 Families,Families by family cycle ,T4_5ENF,Empty Nest (No of families)
+Theme 4 Families,Families by family cycle ,T4_5RF,Retired (No of families)
+Theme 4 Families,Families by family cycle ,T4_5PSF,Pre-School (No of families)
+Theme 4 Families,Families by family cycle ,T4_5ESF,Early School (No of families)
+Theme 4 Families,Families by family cycle ,T4_5PAF,Pre-Adolescent (No of families)
+Theme 4 Families,Families by family cycle ,T4_5ADOF,Adolescent (No of families)
+Theme 4 Families,Families by family cycle ,T4_5ADUF,Adult (No of families)
+Theme 4 Families,Families by family cycle ,T4_5TF,Total (No of families)
+Theme 4 Families,Families by family cycle ,T4_5PFP,Pre-family (No of persons)
+Theme 4 Families,Families by family cycle ,T4_5ENP,Empty Nest (No of persons)
+Theme 4 Families,Families by family cycle ,T4_5RP,Retired (No of persons)
+Theme 4 Families,Families by family cycle ,T4_5PSP,Pre-School (No of persons)
+Theme 4 Families,Families by family cycle ,T4_5ESP,Early School (No of persons)
+Theme 4 Families,Families by family cycle ,T4_5PAP,Pre-Adolescent (No of persons)
+Theme 4 Families,Families by family cycle ,T4_5ADOP,Adolescent (No of persons)
+Theme 4 Families,Families by family cycle ,T4_5ADUP,Adult (No of persons)
+Theme 4 Families,Families by family cycle ,T4_5TP,Total (No of persons)
+Theme 4 Families,Females aged 20 years or over by number of children born alive,T4_6_0C,0 Children born
+Theme 4 Families,Females aged 20 years or over by number of children born alive,T4_6_1C,1 Child born
+Theme 4 Families,Females aged 20 years or over by number of children born alive,T4_6_2C,2 Children born
+Theme 4 Families,Females aged 20 years or over by number of children born alive,T4_6_3C,3 Children born
+Theme 4 Families,Females aged 20 years or over by number of children born alive,T4_6_GE4C,4 or more Children born
+Theme 4 Families,Females aged 20 years or over by number of children born alive,T4_6T,Total
+Theme 5 Private Households,Private households by type,T5_1OP_H,One Person Households (No of households)
+Theme 5 Private Households,Private households by type,T5_1HW_H,Husband and Wife Households (No of households)
+Theme 5 Private Households,Private households by type,T5_1CC_H,Cohabiting Couple Households (No of households)
+Theme 5 Private Households,Private households by type,T5_1HWC_H,"Husband, Wife and Children Households (No of households)"
+Theme 5 Private Households,Private households by type,T5_1CCC_H,Cohabiting Couple and Children Households (No of households)
+Theme 5 Private Households,Private households by type,T5_1FC_H,Father and Children Households (No of households)
+Theme 5 Private Households,Private households by type,T5_1MC_H,Mother and Children Households (No of households)
+Theme 5 Private Households,Private households by type,T5_1CO_H,Couple and Others Households (No of households)
+Theme 5 Private Households,Private households by type,T5_1CCO_H,"Couple, Children and Others Households (No of households)"
+Theme 5 Private Households,Private households by type,T5_1FCO_H,"Father, Children and Others Households (No of households)"
+Theme 5 Private Households,Private households by type,T5_1MCO_H,"Mother, Children and Others Households (No of households)"
+Theme 5 Private Households,Private households by type,T5_1GETFU_H,Two or more Family Units Households (No of households)
+Theme 5 Private Households,Private households by type,T5_1NHR_H,Non-family Households and Relations Households (No of households)
+Theme 5 Private Households,Private households by type,T5_1GENP_H,Two or more Non-related Persons Households (No of households)
+Theme 5 Private Households,Private households by type,T5_1T_H,Total Households (No of households)
+Theme 5 Private Households,Private households by type,T5_1OP_P,One Person Households (No of persons)
+Theme 5 Private Households,Private households by type,T5_1HW_P,Husband and Wife Households (No of persons)
+Theme 5 Private Households,Private households by type,T5_1CC_P,Cohabiting Couple Households (No of persons)
+Theme 5 Private Households,Private households by type,T5_1HWC_P,"Husband, Wife and Children Households (No of persons)"
+Theme 5 Private Households,Private households by type,T5_1CCC_P,Cohabiting Couple and Children Households (No of persons)
+Theme 5 Private Households,Private households by type,T5_1FC_P,Father and Children Households (No of persons)
+Theme 5 Private Households,Private households by type,T5_1MC_P,Mother and Children Households (No of persons)
+Theme 5 Private Households,Private households by type,T5_1CO_P,Couple and Others Households (No of persons)
+Theme 5 Private Households,Private households by type,T5_1CCO_P,"Couple, Children and Others Households (No of persons)"
+Theme 5 Private Households,Private households by type,T5_1FCO_P,"Father, Children and Others Households (No of persons)"
+Theme 5 Private Households,Private households by type,T5_1MCO_P,"Mother, Children and Others Households (No of persons)"
+Theme 5 Private Households,Private households by type,T5_1GETFU_P,Two or more Family Units Households (No of persons)
+Theme 5 Private Households,Private households by type,T5_1NHR_P,Non-family Households and Relations Households (No of persons)
+Theme 5 Private Households,Private households by type,T5_1GENP_P,Two or more Non-related Persons Households (No of persons)
+Theme 5 Private Households,Private households by type,T5_1T_P,Total Households (No of persons)
+Theme 5 Private Households,Private households by size ,T5_2_1PH,1 Person Households (No of households)
+Theme 5 Private Households,Private households by size ,T5_2_2PH,2 Person Households (No of households)
+Theme 5 Private Households,Private households by size ,T5_2_3PH,3 Person Households (No of households)
+Theme 5 Private Households,Private households by size ,T5_2_4PH,4 Person Households (No of households)
+Theme 5 Private Households,Private households by size ,T5_2_5PH,5 Person Households (No of households)
+Theme 5 Private Households,Private households by size ,T5_2_6PH,6 Person Households (No of households)
+Theme 5 Private Households,Private households by size ,T5_2_7PH,7 Person Households (No of households)
+Theme 5 Private Households,Private households by size ,T5_2_GE8H,8 or more Persons Households (No of households)
+Theme 5 Private Households,Private households by size ,T5_2_TH,Total Households (No of households)
+Theme 5 Private Households,Private households by size ,T5_2_1PP,1 Person Households (No of persons)
+Theme 5 Private Households,Private households by size ,T5_2_2PP,2 Person Households (No of persons)
+Theme 5 Private Households,Private households by size ,T5_2_3PP,3 Person Households (No of persons)
+Theme 5 Private Households,Private households by size ,T5_2_4PP,4 Person Households (No of persons)
+Theme 5 Private Households,Private households by size ,T5_2_5PP,5 Person Households (No of persons)
+Theme 5 Private Households,Private households by size ,T5_2_6PP,6 Person Households (No of persons)
+Theme 5 Private Households,Private households by size ,T5_2_7PP,7 Person Households (No of persons)
+Theme 5 Private Households,Private households by size ,T5_2_GE8P,8 or more Persons Households (No of persons)
+Theme 5 Private Households,Private households by size ,T5_2_TP,Total Households (No of persons)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_HB_H,House/Bungalow (Households)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_FA_H,Flat/Apartment (Households)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_BS_H,Bed-Sit (Households)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_CM_H,Caravan/Mobile home (Households)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_NS_H,Not Stated (Households)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_TH,Total (Households)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_HB_P,House/Bungalow (Persons)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_FA_P,Flat/Apartment (Persons)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_BS_P,Bed-Sit (Persons)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_CM_P,Caravan/Mobile home (Persons)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_NS_P,Not Stated (Persons)
+Theme 6 Housing,Private households by type of accommodation ,T6_1_TP,Total (Persons)
+Theme 6 Housing,Permanent private households by year built ,T6_2_PRE19H,Pre 1919 (Households)
+Theme 6 Housing,Permanent private households by year built ,T6_2_19_45H,1919-1945 (Households)
+Theme 6 Housing,Permanent private households by year built ,T6_2_46_60H,1946-1960 (Households)
+Theme 6 Housing,Permanent private households by year built ,T6_2_61_70H,1961-1970 (Households)
+Theme 6 Housing,Permanent private households by year built ,T6_2_71_80H,1971-1980 (Households)
+Theme 6 Housing,Permanent private households by year built ,T6_2_81_90H,1981-1990 (Households)
+Theme 6 Housing,Permanent private households by year built ,T6_2_91_00H,1991-2000 (Households)
+Theme 6 Housing,Permanent private households by year built ,T6_2_01_05H,2001-2005 (Households)
+Theme 6 Housing,Permanent private households by year built ,T6_2_06LH,2006 or Later (Households)
+Theme 6 Housing,Permanent private households by year built ,T6_2_NSH,Not Stated (Households)
+Theme 6 Housing,Permanent private households by year built ,T6_2_TH,Total (Households)
+Theme 6 Housing,Permanent private households by year built ,T6_2_PRE19P,Pre 1919 (Persons)
+Theme 6 Housing,Permanent private households by year built ,T6_2_19_45P,1919-1945 (Persons)
+Theme 6 Housing,Permanent private households by year built ,T6_2_46_60P,1946-1960 (Persons)
+Theme 6 Housing,Permanent private households by year built ,T6_2_61_70P,1961-1970 (Persons)
+Theme 6 Housing,Permanent private households by year built ,T6_2_71_80P,1971-1980 (Persons)
+Theme 6 Housing,Permanent private households by year built ,T6_2_81_90P,1981-1990 (Persons)
+Theme 6 Housing,Permanent private households by year built ,T6_2_91_00P,1991-2000 (Persons)
+Theme 6 Housing,Permanent private households by year built ,T6_2_01_05P,2001-2005 (Persons)
+Theme 6 Housing,Permanent private households by year built ,T6_2_06LP,2006 or Later (Persons)
+Theme 6 Housing,Permanent private households by year built ,T6_2_NSP,Not Stated (Persons)
+Theme 6 Housing,Permanent private households by year built ,T6_2_TP,Total (Persons)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_OOMH,Owner Occupier with Mortgage (Households)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_OCNMH,Owner Occupier No Mortgage (Households)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_RPLH,Rented from Private Landlord (Households)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_RLAH,Rented from Local Authority (Households)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_RVBH,Rented from Voluntary Body (Households)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_OFRH,Rented Free of Rent (Households)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_NSH,Not Stated (Households)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_TH,Total (Households)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_OOMP,Owner Occupier with Mortgage (Persons)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_OCNMP,Owner Occupier No Mortgage (Persons)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_RPLP,Rented from Private Landlord (Persons)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_RLAP,Rented from Local Authority (Persons)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_RVBP,Rented from Voluntary Body (Persons)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_OFRP,Rented Free of Rent (Persons)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_NSP,Not Stated (Persons)
+Theme 6 Housing,Permanent private households by type of occupancy ,T6_3_TP,Total (Persons)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_1RH,1 Room (Households)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_2RH,2 Rooms (Households)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_3RH,3 Rooms (Households)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_4RH,4 Rooms (Households)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_5RH,5 Rooms (Households)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_6RH,6 Rooms (Households)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_7RH,7 Rooms (Households)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_GE8RH,8 or more Rooms (Households)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_NSH,Not Stated (Households)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_TH,Total (Households)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_1RP,1 Room (Persons)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_2RP,2 Rooms (Persons)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_3RP,3 Rooms (Persons)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_4RP,4 Rooms (Persons)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_5RP,5 Rooms (Persons)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_6RP,6 Rooms (Persons)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_7RP,7 Rooms (Persons)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_GE8RP,8 or more Rooms (Persons)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_NSP,Not Stated (Persons)
+Theme 6 Housing,Permanent private households by number of rooms ,T6_4_TP,Total (Persons)
+Theme 6 Housing,Permanent private households by central heating ,T6_5_NCH,No Central Heating
+Theme 6 Housing,Permanent private households by central heating ,T6_5_OCH,Oil (Central Heating)
+Theme 6 Housing,Permanent private households by central heating ,T6_5_NGCH,Natural Gas (Central Heating)
+Theme 6 Housing,Permanent private households by central heating ,T6_5_ECH,Electricity (Central Heating)
+Theme 6 Housing,Permanent private households by central heating ,T6_5_CCH,Coal (Central Heating)
+Theme 6 Housing,Permanent private households by central heating ,T6_5_PCH,Peat (Central Heating)
+Theme 6 Housing,Permanent private households by central heating ,T6_5_LPGCH,Liquid Petroleum Gas (Central Heating)
+Theme 6 Housing,Permanent private households by central heating ,T6_5_WCH,Wood (Central Heating)
+Theme 6 Housing,Permanent private households by central heating ,T6_5_OTH,Other
+Theme 6 Housing,Permanent private households by central heating ,T6_5_NS,Not Stated
+Theme 6 Housing,Permanent private households by central heating ,T6_5_T,Total
+Theme 6 Housing,Permanent private households by water supply ,T6_6_PM,Public Main
+Theme 6 Housing,Permanent private households by water supply ,T6_6_GSLA,Group Scheme with Local Authority
+Theme 6 Housing,Permanent private households by water supply ,T6_6_GSP,Group Scheme with Private source
+Theme 6 Housing,Permanent private households by water supply ,T6_6_OP,Other Private source
+Theme 6 Housing,Permanent private households by water supply ,T6_6_N,None
+Theme 6 Housing,Permanent private households by water supply ,T6_6_NS,Not stated
+Theme 6 Housing,Permanent private households by water supply ,T6_6_T,Total
+Theme 6 Housing,Permanent private households by sewerage facility ,T6_7_PS,Public Scheme
+Theme 6 Housing,Permanent private households by sewerage facility ,T6_7_IST,Individual Septic Tank
+Theme 6 Housing,Permanent private households by sewerage facility ,T6_7_OIT,Other Individual Treatment
+Theme 6 Housing,Permanent private households by sewerage facility ,T6_7_OTH,Other
+Theme 6 Housing,Permanent private households by sewerage facility ,T6_7_NSF,No Sewerage Facility
+Theme 6 Housing,Permanent private households by sewerage facility ,T6_7_NS,Not Stated
+Theme 6 Housing,Permanent private households by sewerage facility ,T6_7_T,Total
+Theme 6 Housing,Occupancy status of permanent dwellings on Census night,T6_8_O,Occupied
+Theme 6 Housing,Occupancy status of permanent dwellings on Census night,T6_8_U,Unoccupied
+Theme 6 Housing,Occupancy status of permanent dwellings on Census night,T6_8_T,Total
+Theme 7 Communal Establishments,Persons in Communal Establishments,T7_1_NE,Number of Establishment
+Theme 7 Communal Establishments,Persons in Communal Establishments,T7_1_NP,Number of Persons
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_WM,At Work (Males)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_LFFJM,Looking For First Job (Males)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_ULGUPJM,Unemployed having Lost or Given Up Previous Job (Males)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_SM,Student (Males)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_LAHFM,Looking After Home/Family (Males)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_RM,Retired (Males)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_UTWSDM,Unable To Work due to Sickness or Disability (Males)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_OTHM,Other (Males)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_TM,Total (Males)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_WF,At Work (Females)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_LFFJF,Looking For First Job (Females)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_ULGUPJF,Unemployed having Lost or Given Up Previous Job (Females)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_SF,Student (Females)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_LAHFF,Looking After Home/Family (Females)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_RF,Retired (Females)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_UTWSDF,Unable To Work due to Sickness or Disability (Females)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_OTHF,Other (Females)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_TF,Total (Females)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_WT,At Work (Total)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_LFFJT,Looking For First Job (Total)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_ULGUPJT,Unemployed having Lost or Given Up Previous Job (Total)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_ST,Student (Total)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_LAHFT,Looking After Home/Family (Total)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_RT,Retired (Total)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_UTWSDT,Unable To Work due to Sickness or Disability (Total)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_OTHT,Other (Total)
+Theme 8 Principal Status,Population aged 15 years and over by principal economic status and sex ,T8_1_TT,Total (Total)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_PWM,Professional workers (Males)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_MTM,Managerial and Technical (Males)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_NMM,Non-Manual (Males)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_SM,Skilled Manual (Males)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_SSM,Semi-Skilled (Males)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_USM,Unskilled (Males)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_OTHGEUM,All Others Gainfully occupied and Unknown (Males)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_TM,Total (Males)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_PWF,Professional Workers (Females)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_MTF,Managerial and Technical (Females)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_NMF,Non-Manual (Females)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_SF,Skilled Manual (Females)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_SSF,Semi-Skilled (Females)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_USF,Unskilled (Females)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_OTHGEUF,All Others Gainfully occupied and Unknown (Females)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_TF,Total (Females)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_PWT,Professional Workers (Total)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_MTT,Managerial and Technical (Total)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_NMT,Non-Manual (Total)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_ST,Skilled Manual (Total)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_SST,Semi-Skilled (Total)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_UST,Unskilled (Total)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_OTHGEUT,All Others Gainfully occupied and Unknown (Total)
+Theme 9 Social Class and Socio-Economic Group,Population by sex and social class,T9_1_TT,Total (Total)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HA,A Employers and managers (Households)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HB,B Higher professional (Households)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HC,C Lower professional (Households)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HD,D Non-manual (Households)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HE,E Manual skilled (Households)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HF,F Semi-skilled (Households)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HG,G Unskilled (Households)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HH,H Own account workers (Households)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HI,I Farmers (Households)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HJ,J Agricultural workers
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HZ,Z All others gainfully occupied and unknown (Households)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_HT,Total (Households)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PA,A Employers and managers (Persons)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PB,B Higher professional (Persons)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PC,C Lower professional (Persons)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PD,D Non-manual (Persons)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PE,E Manual skilled (Persons)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PF,F Semi-skilled (Persons)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PG,G Unskilled (Persons)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PH,H Own account workers (Persons)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PI,I Farmers (Persons)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PJ,J Agricultural workers
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PZ,Z All others gainfully occupied and unknown (Persons)
+Theme 9 Social Class and Socio-Economic Group,Persons in private households by socio-economic group of reference person,T9_2_PT,Total (Persons)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_LT15M,Under 15 (Males)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_15M,Age 15 (Males)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_16M,Age 16 (Males)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_17M,Age 17 (Males)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_18M,Age 18 (Males)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_19M,Age 19 (Males)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_20M,Age 20 (Males)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_GE21M,21 and Over (Males)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_NSM,Not Stated (Males)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_TM,Total (Males)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_LT15F,Under 15 (Females)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_15F,Age 15 (Females)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_16F,Age 16 (Females)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_17F,Age 17 (Females)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_18F,Age 18 (Females)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_19F,Age 19 (Females)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_20F,Age 20 (Females)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_GE21F,21 and Over (Females)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_NSF,Not Stated (Females)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_TF,Total (Females)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_LT15T,Under 15 (Total)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_15T,Age 15 (Total)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_16T,Age 16 (Total)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_17T,Age 17 (Total)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_18T,Age 18 (Total)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_19T,Age 19 (Total)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_20T,Age 20 (Total)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_GE21T,21 and Over (Total)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_NST,Not Stated (Total)
+Theme 10 Education,Population aged 15 years and over by age education ceased ,T10_1_TT,Total (Total)
+Theme 10 Education,Population aged 15 years and over whose education has not ceased,T10_2_SASM,Still At School (Males)
+Theme 10 Education,Population aged 15 years and over whose education has not ceased,T10_2_OTHM,Other (Males)
+Theme 10 Education,Population aged 15 years and over whose education has not ceased,T10_2_SASF,Still At School (Females)
+Theme 10 Education,Population aged 15 years and over whose education has not ceased,T10_2_OTHF,Other (Females)
+Theme 10 Education,Population aged 15 years and over whose education has not ceased,T10_2_SAST,Still At School (Total)
+Theme 10 Education,Population aged 15 years and over whose education has not ceased,T10_2_OTHT,Other (Total)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_EDUM,Education and teacher training (Males)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_ARTM,Art (Males)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_HUMM,Humanities (Males)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_SOCM,"Social sciences, Business and Law (Males)"
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_SCIM,"Science, Mathematics and Computing (Males)"
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_ENGM,"Engineering, Manufacturing and Construction (Males)"
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_AGRM,Agriculture and Veterinary (Males)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_HEAM,Health and Welfare (Males)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_SERM,Services (Males)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_OTHM,Other subjects (Males)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_NSM,Not Stated (Males)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_TM,Total (Males)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_EDUF,Education and teacher training (Females)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_ARTF,Art (Females)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_HUMF,Humanities (Females)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_SOCF,"Social sciences, Business and Law (Females)"
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_SCIF,"Science, Mathematics and Computing (Females)"
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_ENGF,"Engineering, Manufacturing and Construction (Females)"
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_AGRF,Agriculture and Veterinary (Females)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_HEAF,Health and Welfare (Females)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_SERF,Services (Females)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_OTHF,Other subjects (Females)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_NSF,Not Stated (Females)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_TF,Total (Females)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_EDUT,Education and teacher training (Total)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_ARTT,Art (Total)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_HUMT,Humanities (Total)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_SOCT,"Social sciences, Business and Law (Total)"
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_SCIT,"Science, Mathematics and Computing (Total)"
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_ENGT,"Engineering, Manufacturing and Construction (Total)"
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_AGRT,Agriculture and Veterinary (Total)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_HEAT,Health and Welfare (Total)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_SERT,Services (Total)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_OTHT,Other subjects (Total)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_NST,Not Stated (Total)
+Theme 10 Education,Population aged 15 years and over by field of study ,T10_3_TT,Total (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_NFM,No Formal Education (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_PM,Primary Education (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_LSM,Lower Secondary (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_USM,Upper Secondary (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_TVM,Technical or Vocational qualification (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_ACCAM,Advanced Certificate/Completed Apprenticeship (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_HCM,Higher Certificate (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_ODNDM,Ordinary Bachelor Degree or National Diploma (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_HDPQM,"Honours Bachelor Degree, Professional Qualification or both (Males)"
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_PDM,Postgraduate Diploma or Degree (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_DM,Doctorate(Ph.D) or higher (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_NSM,Not Stated (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_TM,Total (Males)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_NFF,No Formal Education (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_PF,Primary Education (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_LSF,Lower Secondary (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_USF,Upper Secondary (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_TVF,Technical or Vocational qualification (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_ACCAF,Advanced Certificate/Completed Apprenticeship (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_HCF,Higher Certificate (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_ODNDF,Ordinary Bachelor Degree or National Diploma (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_HDPQF,"Honours Bachelor Degree, Professional Qualification or both (Females)"
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_PDF,Postgraduate Diploma or Degree (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_DF,Doctorate(Ph.D) or higher (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_NSF,Not Stated (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_TF,Total (Females)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_NFT,No Formal Education (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_PT,Primary Education (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_LST,Lower Secondary (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_UST,Upper Secondary (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_TVT,Technical or Vocational qualification (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_ACCAT,Advanced Certificate/Completed Apprenticeship (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_HCT,Higher Certificate (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_ODNDT,Ordinary Bachelor Degree or National Diploma (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_HDPQT,"Honours Bachelor Degree, Professional Qualification or both (Total)"
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_PDT,Postgraduate Diploma or Degree (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_DT,Doctorate(Ph.D) or higher (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_NST,Not Stated (Total)
+Theme 10 Education,Population aged 15 years and over by sex and highest level of education completed ,T10_4_TT,Total (Total)
+Theme 11 Commuting ,"Population aged 5 years and over by means of travel to work, school or college",T11_1_F,On foot
+Theme 11 Commuting ,"Population aged 5 years and over by means of travel to work, school or college",T11_1_BI,Bicycle
+Theme 11 Commuting ,"Population aged 5 years and over by means of travel to work, school or college",T11_1_BU,"Bus, minibus or coach"
+Theme 11 Commuting ,"Population aged 5 years and over by means of travel to work, school or college",T11_1_TDL,"Train, DART or LUAS"
+Theme 11 Commuting ,"Population aged 5 years and over by means of travel to work, school or college",T11_1_M,Motorcycle or scooter
+Theme 11 Commuting ,"Population aged 5 years and over by means of travel to work, school or college",T11_1_CD,Car driver
+Theme 11 Commuting ,"Population aged 5 years and over by means of travel to work, school or college",T11_1_CP,Car passenger
+Theme 11 Commuting ,"Population aged 5 years and over by means of travel to work, school or college",T11_1_V,Van
+Theme 11 Commuting ,"Population aged 5 years and over by means of travel to work, school or college",T11_1_OTH,Other
+Theme 11 Commuting ,"Population aged 5 years and over by means of travel to work, school or college",T11_1_NS,Not stated
+Theme 11 Commuting ,"Population aged 5 years and over by means of travel to work, school or college",T11_1_T,Total
+Theme 11 Commuting ,"Population aged 5 years and over by time leaving home to travel to work, school or college ",T11_2_T1,Before 06:30
+Theme 11 Commuting ,"Population aged 5 years and over by time leaving home to travel to work, school or college ",T11_2_T2,06:30-07:00
+Theme 11 Commuting ,"Population aged 5 years and over by time leaving home to travel to work, school or college ",T11_2_T3,07:01-07:30
+Theme 11 Commuting ,"Population aged 5 years and over by time leaving home to travel to work, school or college ",T11_2_T4,07:31-08:00
+Theme 11 Commuting ,"Population aged 5 years and over by time leaving home to travel to work, school or college ",T11_2_T5,08:01-08:30
+Theme 11 Commuting ,"Population aged 5 years and over by time leaving home to travel to work, school or college ",T11_2_T6,08:31-09:00
+Theme 11 Commuting ,"Population aged 5 years and over by time leaving home to travel to work, school or college ",T11_2_T7,09:01-09:30
+Theme 11 Commuting ,"Population aged 5 years and over by time leaving home to travel to work, school or college ",T11_2_T8,After 09:30
+Theme 11 Commuting ,"Population aged 5 years and over by time leaving home to travel to work, school or college ",T11_2_NS,Not stated
+Theme 11 Commuting ,"Population aged 5 years and over by time leaving home to travel to work, school or college ",T11_2_T,Total
+Theme 11 Commuting ,"Population aged 5 years and over by journey time to work, school or college ",T11_3_D1,Under 15 mins
+Theme 11 Commuting ,"Population aged 5 years and over by journey time to work, school or college ",T11_3_D2,1/4 hour - under 1/2 hour
+Theme 11 Commuting ,"Population aged 5 years and over by journey time to work, school or college ",T11_3_D3,1/2 hour - under 3/4 hour
+Theme 11 Commuting ,"Population aged 5 years and over by journey time to work, school or college ",T11_3_D4,3/4 hour - under 1 hour
+Theme 11 Commuting ,"Population aged 5 years and over by journey time to work, school or college ",T11_3_D5,1 hour - under 1 1/2 hours
+Theme 11 Commuting ,"Population aged 5 years and over by journey time to work, school or college ",T11_3_D6,1 1/2 hours and over
+Theme 11 Commuting ,"Population aged 5 years and over by journey time to work, school or college ",T11_3_NS,Not stated
+Theme 11 Commuting ,"Population aged 5 years and over by journey time to work, school or college ",T11_3_T,Total
+"Theme 12 Disability, carers and general health",Persons with disability by age group,T12_1AGE0_14,Age 0-14 years
+"Theme 12 Disability, carers and general health",Persons with disability by age group,T12_1AGE15_24,Age 15-24 years
+"Theme 12 Disability, carers and general health",Persons with disability by age group,T12_1AGE25_44,Age 25-44 years
+"Theme 12 Disability, carers and general health",Persons with disability by age group,T12_1AGE45_64,Age 45-64 years
+"Theme 12 Disability, carers and general health",Persons with disability by age group,T12_1AGEGE65,Age 65+ years
+"Theme 12 Disability, carers and general health",Persons with disability by age group,T12_1AGET,Age Total
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_21_14M,1-14 Hours (Males)
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_215_28M,15-28 Hours (Males)
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_229_42M,29-42 Hours (Males)
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_2GE43M,43+ Hours (Males)
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_2NSM,Not Stated (Males)
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_2TM,Total (Males)
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_21_14F,1-14 Hours (Females)
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_215_28F,15-28 Hours (Females)
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_229_42F,29-42 Hours (Females)
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_2GE43F,43+ Hours (Females)
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_2NSF,Not Stated (Females)
+"Theme 12 Disability, carers and general health",Carers by sex and number of unpaid hours per week,T12_2TF,Total (Females)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3VGM,Very Good (Males)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3GM,Good (Males)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3FM,Fair (Males)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3BM,Bad (Males)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3VBM,Very Bad (Males)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3NSM,Not Stated (Males)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3TM,Total (Males)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3VGF,Very Good (Females)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3GF,Good (Females)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3FF,Fair (Females)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3BF,Bad (Females)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3VBF,Very Bad (Females)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3NSF,Not Stated (Females)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3TF,Total (Females)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3VGT,Very Good (Total)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3GT,Good (Total)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3FT,Fair (Total)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3BT,Bad (Total)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3VBT,Very Bad (Total)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3NST,Not Stated (Total)
+"Theme 12 Disability, carers and general health",Population by general health and sex,T12_3TT,Total (Total)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_MDSOM,"Managers, Directors and Senior Officials (Males)"
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_POM,Professional Occupations (Males)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_APTOM,Associate Professional and Technical Occupations (Males)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_ASOM,Administrative and Secretarial Occupations (Males)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_STOM,Skilled Trades Occupations (Males)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_CLOSOM,"Caring, Leisure and Other Service Occupations (Males)"
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_SCSOM,Sales and Customer Service Occupations (Males)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_PPMOM,"Process, Plant and Machine Operatives (Males)"
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_EOM,Elementary Occupations (Males)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_NSM,Not stated (Males)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_TM,Total (Males)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_MDSOF,"Managers, Directors and Senior Officials (Females)"
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_POF,Professional Occupations (Females)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_APTOF,Associate Professional and Technical Occupations (Females)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_ASOF,Administrative and Secretarial Occupations (Females)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_STOF,Skilled Trades Occupations (Females)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_CLOSOF,"Caring, Leisure and Other Service Occupations (Females)"
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_SCSOF,Sales and Customer Service Occupations (Females)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_PPMOF,"Process, Plant and Machine Operatives (Females)"
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_EOF,Elementary Occupations (Females)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_NSF,Not stated (Females)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_TF,Total (Females)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_MDSOT,"Managers, Directors and Senior Officials (Total)"
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_POT,Professional Occupations (Total)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_APTOT,Associate Professional and Technical Occupations (Total)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_ASOT,Administrative and Secretarial Occupations (Total)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_STOT,Skilled Trades Occupations (Total)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_CLOSOT,"Caring, Leisure and Other Service Occupations (Total)"
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_SCSOT,Sales and Customer Service Occupations (Total)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_PPMOT,"Process, Plant and Machine Operatives (Total)"
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_EOT,Elementary Occupations (Total)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_NST,Not stated (Total)
+Theme 13 Occupation,Persons at work or unemployed by occupation and sex,T13_1_TT,Total (Total)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_AFFM,"Agriculture, forestry and fishing (Males)"
+Theme 14 Industries,Persons at work by industry and sex,T14_1_BCM,Building and construction (Males)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_MIM,Manufacturing industries (Males)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_CTM,Commerce and trade (Males)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_TCM,Transport and communications (Males)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_PAM,Public administration (Males)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_PSM,Professional services (Males)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_OTHM,Other (Males)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_TM,Total (Males)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_AFFF,"Agriculture, forestry and fishing (Females)"
+Theme 14 Industries,Persons at work by industry and sex,T14_1_BCF,Building and construction (Females)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_MIF,Manufacturing industries (Females)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_CTF,Commerce and trade (Females)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_TCF,Transport and communications (Females)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_PAF,Public administration (Females)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_PSF,Professional services (Females)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_OTHF,Other (Females)
+Theme 14 Industries,Persons at work by industry and sex,T14_1_TF,Total (Females)
+Theme 15 PC and Internet Access,Number of households with cars,T15_1_NC,No motor car
+Theme 15 PC and Internet Access,Number of households with cars,T15_1_1C,One motor car
+Theme 15 PC and Internet Access,Number of households with cars,T15_1_2C,Two motor cars
+Theme 15 PC and Internet Access,Number of households with cars,T15_1_3C,Three motor cars
+Theme 15 PC and Internet Access,Number of households with cars,T15_1_GE4C,Four or more motor cars
+Theme 15 PC and Internet Access,Number of households with a personal computer,T15_2_Y,Yes
+Theme 15 PC and Internet Access,Number of households with a personal computer,T15_2_N,No
+Theme 15 PC and Internet Access,Number of households with a personal computer,T15_2_NS,Not Stated
+Theme 15 PC and Internet Access,Number of households with a personal computer,T15_2_T,Total
+Theme 15 PC and Internet Access,Number of households with internet,T15_3_B,Broadband
+Theme 15 PC and Internet Access,Number of households with internet,T15_3_OTH,Other
+Theme 15 PC and Internet Access,Number of households with internet,T15_3_N,No
+Theme 15 PC and Internet Access,Number of households with internet,T15_3_NS,Not Stated
+Theme 15 PC and Internet Access,Number of households with internet,T15_3_T,Total
